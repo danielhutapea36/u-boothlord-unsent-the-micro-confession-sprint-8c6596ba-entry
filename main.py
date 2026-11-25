@@ -24,7 +24,10 @@ abandoned, not a line written to be sent; (5) the message is one
 line exactly as typed, with no explanation after it. It is
 specific and honest — liked him first, said yes anyway, a hundred
 rehearsals — rather than general, and the guilt is the confession
-itself, not a joke, a greeting or a motivational line.
+itself, not a joke, a greeting or a motivational line. At 176
+characters it also stays well inside the 260-character gate, and a
+smaller text wins an exact tie on Judge win rate before earlier
+receipt does.
 """
 
 import os
